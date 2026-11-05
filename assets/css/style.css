@@ -109,7 +109,7 @@ section{
     margin: 0 auto;
 }
 #hero{
-      margin: 9% 2%;
+      margin: 6% 2%;
 }
 .intro{
     margin: 9% 0;
@@ -548,7 +548,6 @@ width: 100%;
 }
 .journey{
     margin: 0 auto 1.8rem;
-
 }
 .pageContainer .images {
     flex: 1;
@@ -560,5 +559,4 @@ width: 100%;
     height: 200px;
     object-fit: contain;
 }
-
 }
